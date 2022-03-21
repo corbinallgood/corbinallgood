@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @corbinallgood
+- 👀 I’m interested in learning more about code and software engineering
+- 📫 Reach me via Email corbinallgood80@gmail.com
